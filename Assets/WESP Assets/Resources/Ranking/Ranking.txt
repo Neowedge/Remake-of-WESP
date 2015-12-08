@@ -1,0 +1,10 @@
+﻿100	1	Nobody
+90	1	Nobody
+80	1	Nobody
+70	1	Nobody
+60	1	Nobody
+50	1	Nobody
+40	1	Nobody
+30	1	Nobody
+20	1	Nobody
+10	1	Nobody
